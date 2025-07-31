@@ -2,8 +2,6 @@
 
 A modern, responsive analytics dashboard built with Next.js 15, featuring real-time data integration, interactive charts, and a mobile-first design. This dashboard provides comprehensive business insights with team management capabilities and live data updates.
 
-![Dashboard Preview](public/placeholder.svg)
-
 ## 🚀 Features
 
 ### Core Functionality
